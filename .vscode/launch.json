@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SimpleWebAppApplication<simpleWebApp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.gopal.simpleWebApp.SimpleWebAppApplication",
+            "projectName": "simpleWebApp",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
